@@ -29,6 +29,6 @@ Usage
    //with open('PositiveFeedback.txt', 'r') as f://
 4. Run the script: Sentiment Analysis_TextFiles.py
 5. View the sentiment score:
-   Positive score: Positive sentiment;
-   Negative score: Negative sentiment;
-   Score near 0: Neutral sentiment;
+   * Positive score: Positive sentiment;
+   * Negative score: Negative sentiment;
+   * Score near 0: Neutral sentiment;
